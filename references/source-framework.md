@@ -53,7 +53,7 @@ Do not hard-code 2011 benchmark conventions, market instruments or rate examples
 *Interagency Guidance on Funds Transfer Pricing Related to Funding and Contingent Liquidity Risks*, 1 March 2016.
 
 Official Federal Reserve page:
-https://www.federalreserve.gov/supervisionreg/srletters/sr1603.htm
+https://www.federalreserve.gov/frrs/guidance/interagency-guidance-on-funds-transfer-pricing-related-to-funding-and-contingent-liquidity-risks.htm
 
 Use for:
 
@@ -129,9 +129,12 @@ Status: `SUPERVISORY_EXPECTATION` for relevant ECB-supervised institutions; othe
 ## 8. EBA SREP Guidelines
 
 Official EBA page:
-https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities/supervisory-review-and-evaluation-process-srep-and-pillar-2/guidelines-common-procedures-and-methodologies-supervisory-review-and-evaluation-process-srep-and
+https://eba.europa.eu/regulation-and-policy/supervisory-review-and-evaluation-process-srep-and-pillar-2
 
-As of the skill's source review, the 2026 revised SREP Guidelines were final and awaiting translation / not yet applicable. The 2022 version remained the applicable version shown by EBA.
+26 June 2026 revised SREP announcement:
+https://www.eba.europa.eu/publications-and-media/press-releases/eba-reaches-another-important-milestone-enhancing-supervisory-efficiency-its-revised-srep-guidelines
+
+As of the skill's source review, the 2026 revised SREP Guidelines were final and scheduled to apply from 1 January 2027. Until then, verify which earlier version remains applicable in the relevant jurisdiction and supervisory context.
 
 Use for:
 
