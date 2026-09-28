@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bank Funds Transfer Pricing"
+  short_description: "Design, audit, calculate and implement bank FTP"
+  default_prompt: "Use $bank-funds-transfer-pricing to analyse or implement a bank FTP framework with matched-maturity funding, behavioural cash flows, contingent liquidity, governance and reproducible controls."
