@@ -97,5 +97,3 @@ $bank-funds-transfer-pricing Prepare an ALCO pack explaining the change in margi
 ## Important limitation
 
 The skill is a methodology and implementation framework. It does not turn BIS, US or EU supervisory material into binding requirements for another jurisdiction. For live work it must first determine the applicable legal entity and jurisdiction and verify the current rules and source status.
-
-No license has been assigned yet. Until one is added, repository reuse is not automatically granted.
